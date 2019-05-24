@@ -1,1 +1,28 @@
+body {
+    //color: beige;
+    background-color: darkseagreen;
+    //font-family: 'Times New Roman', Times, serif;
+    //font-style: italic;
+    background-image: url('waffles.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-position: center;
+    background-image: url('waffle2.jpg');
+}
+
+h1 {
+    color: beige;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 300%;
+}
+
+p {
+    color: beige;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 130%;
+}
+
 
